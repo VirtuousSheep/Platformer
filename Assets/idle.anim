@@ -32,6 +32,8 @@ AnimationClip:
       value: {fileID: -7402282319019128811, guid: a927ab2cd78a60c4eb32aa7108cac146, type: 3}
     - time: 0.53333336
       value: {fileID: 5529360647100045095, guid: a927ab2cd78a60c4eb32aa7108cac146, type: 3}
+    - time: 0.6
+      value: {fileID: 5529360647100045095, guid: a927ab2cd78a60c4eb32aa7108cac146, type: 3}
     attribute: m_Sprite
     path: 
     classID: 212
@@ -60,12 +62,13 @@ AnimationClip:
     - {fileID: 50095593248590963, guid: a927ab2cd78a60c4eb32aa7108cac146, type: 3}
     - {fileID: -7402282319019128811, guid: a927ab2cd78a60c4eb32aa7108cac146, type: 3}
     - {fileID: 5529360647100045095, guid: a927ab2cd78a60c4eb32aa7108cac146, type: 3}
+    - {fileID: 5529360647100045095, guid: a927ab2cd78a60c4eb32aa7108cac146, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 0.55
+    m_StopTime: 0.6166667
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
